@@ -1,6 +1,4 @@
-[**Data 88E: Economic Models**](https://data88e.org) is a course offered at UC Berkeley as part of the [**Data Science Connector Course**](https://www.data8.org/zero-to-data-8/connectors_modules.html)series. It’s designed to bridge the gap between data science and economics by using real-world datasets and Python programming to illustrate key economic concepts. The course is intended for students from both data science and economics backgrounds, giving them a chance to apply computational tools to economic models.
-
-The course covers a range of topics including: **Introductory Economics**,  **Microeconomic Theory**,  **Econometrics**,  **Development Economics**,  **Environmental Economics**,  **Public Economics**
+[**Data 88E: Economic Models**](https://data88e.org) is a course offered at UC Berkeley as part of the [**Data Science Connector Course**](https://www.data8.org/zero-to-data-8/connectors_modules.html) series. It’s designed to bridge the gap between data science and economics by using real-world datasets and Python programming to illustrate key economic concepts. The course is intended for students from both data science and economics backgrounds, giving them a chance to apply computational tools to economic models.
 
 Students work with Python in Jupyter Notebooks to explore economic concepts such as supply and demand, market equilibrium, utility, game theory, and more. The course emphasizes how economic decisions are influenced by real-world data and policy interventions, making it a practical intersection of economics and data science. 
 
